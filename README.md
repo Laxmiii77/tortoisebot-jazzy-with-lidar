@@ -1,6 +1,7 @@
 # 🐢 TortoiseBot Simulation Environment (ROS 2 Jazzy)
 
-<img src="image.png"/>
+<image src=image.png/>
+
 ## 📌 Overview
 This project provides a **complete simulation environment** for the **TortoiseBot mobile robot** using **ROS 2 Jazzy** and **Gazebo Harmonic**.
 
@@ -54,3 +55,4 @@ Run the node to read distance of objects using the lidar sensor
 ```bash
 ros2 run laser closest_distance
 ```
+add an image
