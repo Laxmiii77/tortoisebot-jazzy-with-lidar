@@ -55,4 +55,3 @@ Run the node to read distance of objects using the lidar sensor
 ```bash
 ros2 run laser closest_distance
 ```
-add an image
